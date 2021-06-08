@@ -1,5 +1,5 @@
 import React from 'react';
-import Tettris from './compnents/Tetris';
+import Tetris from './components/Tetris';
 
 const App = () => (
   <div className="App">
